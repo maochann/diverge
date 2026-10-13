@@ -1,4 +1,4 @@
-# 🧭 Diverge
+# Diverge
 
 **Step outside your algorithm.**
 
@@ -24,7 +24,7 @@ npm run dev     # start the dev server
 
 Then open the link it prints (usually **http://localhost:5173**).
 
-> 💡 The app is designed as a phone mockup, so it looks best in a normal browser
+> The app is designed as a phone mockup, so it looks best in a normal browser
 > window on a laptop. You can also open it on your phone using the Network URL
 > (run `npm run dev -- --host`).
 
